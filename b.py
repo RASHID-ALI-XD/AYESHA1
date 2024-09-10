@@ -1,2 +1,2 @@
-from AYESHA1 import loginkey
-loginkey()     
+from AYESHA1 import menu
+menu()  
